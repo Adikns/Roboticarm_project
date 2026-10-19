@@ -56,12 +56,11 @@ coordinate transforms rather than assuming they were right.
 
 ## Running it
 
-<!-- FILL IN THE REAL STEPS. Rough template: -->
 1. Configure the arm and camera in Viam.
-2. Install dependencies: `pip install -r requirements.txt`  <!-- if you have one -->
-3. Run: `python main.py`  <!-- use your actual file name -->
+2. Install dependencies:
+3. Update the code if needed
+4. Run: build_pyramid.py
 
 ## Notes
 
-Built in a weekend as a hackathon project. <!-- Add: did you place/win anything?
-How many people on your team, or solo? That's worth one sentence. -->
+Built in 2 days as a hackathon project. Worked as a solo project. Didn't win anything but got an appreciation letter and gift as a SO-101 robotic arm kit. 
