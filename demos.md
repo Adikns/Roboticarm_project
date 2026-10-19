@@ -13,10 +13,3 @@
   📂 <a href="demos.md"><b>View Demos File</b></a>
   <video src="https://github.com/user-attachments/assets/ae4b4374-d5b8-4116-8bed-1effce2bf26a" width="600" controls></video>
 </p>
-
-<h3>Demo Video</h3>
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/ae4b4374-d5b8-4116-8bed-1effce2bf26a" width="600" controls>
-    Your browser does not support the video tag. <a href="https://github.com"><b>Click here to download or view the video directly.</b></a>
-  </video>
-</p>
