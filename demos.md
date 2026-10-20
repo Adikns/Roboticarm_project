@@ -9,7 +9,4 @@
 
 
 <h3>Documentation & Source Files</h3>
-<p align="center">
-  📂 <a href="demos.md"><b>View Demos File</b></a>
-  <video src="https://github.com/user-attachments/assets/ae4b4374-d5b8-4116-8bed-1effce2bf26a" width="600" controls></video>
-</p>
+
